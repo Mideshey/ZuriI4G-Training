@@ -2,6 +2,7 @@
 from random import randint
 
 # moves for the player
+# the players
 moves = ["rock", "paper", "scissors"]
 
 while True:
